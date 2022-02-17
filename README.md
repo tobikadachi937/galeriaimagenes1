@@ -20,3 +20,12 @@
 ![Website setup-amico](https://user-images.githubusercontent.com/65374030/154561014-54fde282-6d03-49fc-8eeb-08e0cfc777ab.png)
 
 ![Web devices-cuate](https://user-images.githubusercontent.com/65374030/154561609-739e0396-6aa4-4c56-99cd-62ef751a4edc.png)
+
+![Mention-rafiki](https://user-images.githubusercontent.com/65374030/154562192-5e920dca-1e63-424e-bc8f-244659449431.png)
+![Browser stats-amico](https://user-images.githubusercontent.com/65374030/154562193-12923cda-f39a-4c99-af5a-6426c67b9394.png)
+![yo](https://user-images.githubusercontent.com/65374030/154562197-f71cf6c4-e09d-4a5e-8285-57692b6c7860.jpg)
+![winilla](https://user-images.githubusercontent.com/65374030/154562200-d79d0bf4-f199-4067-9a8c-7203e5f81546.jpg)
+![Website setup-cuate](https://user-images.githubusercontent.com/65374030/154562203-81e195f9-2238-4875-8538-c5d35f129147.png)
+![Website setup-amico](https://user-images.githubusercontent.com/65374030/154562204-6faa0228-3e02-43d2-8a68-fc479b0f6b67.png)
+![Questions-cuate](https://user-images.githubusercontent.com/65374030/154562206-4fb54fc3-7fee-4bca-9030-1695422a7f8b.png)
+![Mobile browsers-pana](https://user-images.githubusercontent.com/65374030/154562208-d5794174-d8e4-4c35-93ca-250edc9030ab.png)
