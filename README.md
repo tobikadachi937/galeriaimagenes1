@@ -15,4 +15,6 @@
 ![Tarjetas Presentación Gretel Rodriguez Meza - Opera 1_14_2022 4_52_44 PM](https://user-images.githubusercontent.com/65374030/149595657-c8e9653a-3491-40f5-9d0c-7727d1abc96f.png)
 ![yo](https://user-images.githubusercontent.com/65374030/149634382-4a0a6720-77ad-42bb-9e46-1e589ff43f67.png)
 
-![rsz_1rsz_website_setup-amico (1)](https://user-images.githubusercontent.com/65374030/154560709-7d56b915-f4a3-421b-9fcb-d2c46d8e7864.png)
+
+
+![Website setup-amico](https://user-images.githubusercontent.com/65374030/154561014-54fde282-6d03-49fc-8eeb-08e0cfc777ab.png)
