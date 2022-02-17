@@ -18,3 +18,5 @@
 
 
 ![Website setup-amico](https://user-images.githubusercontent.com/65374030/154561014-54fde282-6d03-49fc-8eeb-08e0cfc777ab.png)
+
+![Web devices-cuate](https://user-images.githubusercontent.com/65374030/154561609-739e0396-6aa4-4c56-99cd-62ef751a4edc.png)
