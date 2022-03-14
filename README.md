@@ -28,4 +28,7 @@
 ![Website setup-cuate](https://user-images.githubusercontent.com/65374030/154562203-81e195f9-2238-4875-8538-c5d35f129147.png)
 ![Website setup-amico](https://user-images.githubusercontent.com/65374030/154562204-6faa0228-3e02-43d2-8a68-fc479b0f6b67.png)
 ![Questions-cuate](https://user-images.githubusercontent.com/65374030/154562206-4fb54fc3-7fee-4bca-9030-1695422a7f8b.png)
-![Mobile browsers-pana](https://user-images.githubusercontent.com/65374030/154562208-d5794174-d8e4-4c35-93ca-250edc9030ab.png)
+![Mobile browsers-pana](https://user-images.githubusercontent.com/65374030/154562208-d5794174-d8e4-4c35-93ca-250edc9030ab.png) 
+
+
+![nft-geeks logo](https://user-images.githubusercontent.com/65374030/158276927-4ff3a3ca-e734-4a7c-9608-849d965dcbd3.png)
