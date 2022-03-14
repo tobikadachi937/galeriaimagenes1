@@ -31,4 +31,7 @@
 ![Mobile browsers-pana](https://user-images.githubusercontent.com/65374030/154562208-d5794174-d8e4-4c35-93ca-250edc9030ab.png) 
 
 
-![nft-geeks logo](https://user-images.githubusercontent.com/65374030/158276927-4ff3a3ca-e734-4a7c-9608-849d965dcbd3.png)
+![nft-geeks logo](https://user-images.githubusercontent.com/65374030/158276927-4ff3a3ca-e734-4a7c-9608-849d965dcbd3.png) 
+
+![NFT Geeks logo](https://user-images.githubusercontent.com/65374030/158278071-c4fc4423-b80e-4c1a-b055-fd95e6ac90f2.png)
+
